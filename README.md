@@ -8,7 +8,7 @@ Crystal bindings for go-libipfs
 
    ```yaml
    dependencies:
-     cr-libipfs:
+     libipfs:
        github: teknomunk/cr-libipfs
    ```
 
