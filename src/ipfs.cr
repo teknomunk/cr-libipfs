@@ -1,3 +1,6 @@
+require "./ipfs"
+require "./libp2p"
+
 module IPFS
 	LibIPFS.ipfs_Init()
 	at_exit {
