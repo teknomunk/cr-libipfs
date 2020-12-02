@@ -1,4 +1,4 @@
-require "./ipfs"
+require "./libipfs"
 require "./libp2p"
 
 module IPFS
